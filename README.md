@@ -1,14 +1,14 @@
 # Online Retail Business Analysis Project  
 
-![Online Retail Dashboard Preview](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/blob/main/Online%20Retail%20Dashboard%20Preview.png)  
-*Screenshot of the Online Retail Business Analysis dashboard created using Power BI.*  
-
 ## Project Overview  
 This project is part of a virtual internship program focused on data cleaning, analysis, visualization, and insights development using **Excel**, **Power BI**, and **Microsoft PowerPoint**.  
 The aim is to assist an online retail store's leadership (CEO and CMO) by analyzing their data to:  
 - Identify key contributors to revenue.  
 - Develop strategic planning for the next year.  
 - Provide actionable insights through visualizations and address critical business questions.  
+
+![Online Retail Dashboard Preview](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/blob/main/Online%20Retail%20Dashboard%20Preview.png)  
+*Screenshot of the Online Retail Business Analysis dashboard created using Power BI.*  
 
 ## Objectives  
 - **Analyze Business Performance:** Understand factors driving revenue from operational and marketing perspectives.  
