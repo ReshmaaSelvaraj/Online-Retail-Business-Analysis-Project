@@ -1,6 +1,6 @@
 # Online Retail Business Analysis Project  
 
-![Online Retail Dashboard Preview](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/raw/main/dashboard-preview.png)  
+![Online Retail Dashboard Preview]([https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/raw/main/dashboard-preview.png](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/blob/main/Online%20Retail%20Dashboard%20Preview.png))  
 *Screenshot of the Online Retail Business Analysis dashboard created using Power BI.*  
 
 ## Project Overview  
