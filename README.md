@@ -75,7 +75,7 @@ Developed a professional presentation summarizing key findings:
 
 ## Links  
 - **[View Project on GitHub](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project)**  
-- **[Download Power BI File (.pbix)](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/blob/main/OnlineRetailDashboard.pbix)**  
+- **[Download Power BI File (.pbix)](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project/blob/main/Online%20Retail%20Business%20Analysis%20Project.pbix)**  
 
 ---  
 
